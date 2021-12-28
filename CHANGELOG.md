@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 
+## [v4.1.1] - 2021-12-28
+- Add PHP 8.x and Laravel 8.x support
+- Drop PHP 7.x support
 
 ## [v4.1.0] - 2020-06-15
 - Update validation rules
